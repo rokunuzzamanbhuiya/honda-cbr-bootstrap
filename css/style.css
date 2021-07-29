@@ -34,3 +34,7 @@ body {
   transform: scale(1.2, 1.2);
   transition: all .7s;
 }
+.subscribe{
+    text-decoration: none;
+    color: black;
+}
